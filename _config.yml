@@ -1,3 +1,4 @@
 markdown: kramdown
 theme: jekyll-theme-hacker
 title: Simple Desktop Environment
+permalink: pretty
