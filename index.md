@@ -7,6 +7,7 @@ title: Simple Desktop Environment
 
 * [Состояние проекта и план работ](/current-state)
 * [Лицензии компонентов SDE](/licensing)
+* [Непрерывная интеграция](/ci)
 
 ### Приложения в составе SDE
 
