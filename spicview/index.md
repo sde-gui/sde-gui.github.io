@@ -28,14 +28,6 @@ title: SpicView
 Главное окно приложения:
 
 <div>
-    <a class='fancyBox' target="_blank" href="/spicview/screenshots-0.3.0/spicview-main-window-1.png">
-        <img src="/spicview/screenshots-0.3.0/spicview-main-window-1.png" alt="spicview 0.3.0" />
-    </a>
-</div>
-
-Автоподбор фона, если изображение меньше окна:
-
-<div>
     <a class='fancyBox' target="_blank" href="/spicview/screenshots-0.3.0/spicview-main-window-2.png">
         <img src="/spicview/screenshots-0.3.0/spicview-main-window-2.png" alt="spicview 0.3.0" />
     </a>
