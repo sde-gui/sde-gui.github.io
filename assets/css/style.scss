@@ -12,8 +12,28 @@ div.container {
 }
 
 
+.fancyBox {
+    display: inline-block;
+    border: 8px solid #fff;
+    box-shadow: 1px 1px 4px #666;
+    border-radius: 5px;
+    margin: 1em auto;
+    position: relative;
+}
 
+.fancyBox img {
+    display: block;
+}
 
+.fancyBox .overlay {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000, 2px 2px 2px #000;
+}
 
 
 .sliderC3 {
