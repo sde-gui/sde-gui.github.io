@@ -13,6 +13,7 @@ libsde-utils-jansson | [![Build Status](https://travis-ci.org/sde-gui/libsde-uti
 libsde-utils-x11 | [![Build Status](https://travis-ci.org/sde-gui/libsde-utils-x11.svg?branch=master)](https://travis-ci.org/sde-gui/libsde-utils-x11)
 libsmfm-core | [![Build Status](https://travis-ci.org/sde-gui/libsmfm-core.svg?branch=master)](https://travis-ci.org/sde-gui/libsmfm-core)
 libsmfm-gtk | [![Build Status](https://travis-ci.org/sde-gui/libsmfm-gtk.svg?branch=master)](https://travis-ci.org/sde-gui/libsmfm-gtk)
+qk | [![Build Status](https://travis-ci.org/sde-gui/qk.svg?branch=master)](https://travis-ci.org/sde-gui/qk)
 rainbow-cm | [![Build Status](https://travis-ci.org/sde-gui/rainbow-cm.svg?branch=master)](https://travis-ci.org/sde-gui/rainbow-cm)
 spicview | [![Build Status](https://travis-ci.org/sde-gui/spicview.svg?branch=master)](https://travis-ci.org/sde-gui/spicview)
 stuurman | [![Build Status](https://travis-ci.org/sde-gui/stuurman.svg?branch=master)](https://travis-ci.org/sde-gui/stuurman)
