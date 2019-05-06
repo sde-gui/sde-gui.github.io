@@ -18,4 +18,4 @@ spicview | [![Build Status](https://travis-ci.org/sde-gui/spicview.svg?branch=ma
 stuurman | [![Build Status](https://travis-ci.org/sde-gui/stuurman.svg?branch=master)](https://travis-ci.org/sde-gui/stuurman)
 stuurman-desktop | [![Build Status](https://travis-ci.org/sde-gui/stuurman-desktop.svg?branch=master)](https://travis-ci.org/sde-gui/stuurman-desktop)
 waterline | [![Build Status](https://travis-ci.org/sde-gui/waterline.svg?branch=master)](https://travis-ci.org/sde-gui/waterline)
- waterline-plugin-multiload | `(нет данных)`
+waterline-plugin-multiload | [![Build Status](https://travis-ci.org/sde-gui/waterline-plugin-multiload.svg?branch=master)](https://travis-ci.org/sde-gui/waterline-plugin-multiload)
