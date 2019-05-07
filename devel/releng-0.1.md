@@ -12,6 +12,7 @@ title: Статус подготовки релиза 0.1
   * libsde-utils-x11
   * libsmfm-core
   * libsmfm-gtk
+  * qk
   * rainbow-cm
   * spicview
   * stuurman
@@ -28,6 +29,7 @@ title: Статус подготовки релиза 0.1
   * libsde-utils-x11
   * libsmfm-core
   * libsmfm-gtk
+  * qk
   * rainbow-cm
   * spicview
   * stuurman
@@ -42,6 +44,7 @@ title: Статус подготовки релиза 0.1
   * libsde-utils-x11
   * libsmfm-core
   * libsmfm-gtk
+  * qk
   * rainbow-cm
   * spicview
   * stuurman
@@ -56,6 +59,7 @@ title: Статус подготовки релиза 0.1
   * libsde-utils-x11
   * libsmfm-core
   * libsmfm-gtk
+  * qk
   * rainbow-cm
   * spicview
   * stuurman
@@ -71,6 +75,7 @@ title: Статус подготовки релиза 0.1
   * libsde-utils-x11
   * libsmfm-core
   * libsmfm-gtk
+  * qk
   * rainbow-cm
   * spicview
   * stuurman
@@ -92,6 +97,7 @@ title: Статус подготовки релиза 0.1
   * libsde-utils-x11
   * libsmfm-core
   * libsmfm-gtk
+  * qk
   * rainbow-cm
   * spicview
   * stuurman
@@ -106,6 +112,7 @@ title: Статус подготовки релиза 0.1
   * libsde-utils-x11
   * libsmfm-core
   * libsmfm-gtk
+  * qk
   * rainbow-cm
   * spicview
   * stuurman
